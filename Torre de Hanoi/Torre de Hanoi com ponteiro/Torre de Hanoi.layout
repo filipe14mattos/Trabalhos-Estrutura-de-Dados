@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="PilhaComPonteiro.c" Top="Yes" Tabpos="1" TopLine="108">
+			<Cursor Line="136" Column="57"/>
+			<Selection Line="135" Column="1"/>
+		</File>
+		<File Name="PilhaComPonteiro.h" Top="No" Tabpos="2" TopLine="5">
+			<Cursor Line="36" Column="52"/>
+		</File>
+		<File Name="main.c" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="15" Column="44"/>
+		</File>
+	</Files>
+</Layout>

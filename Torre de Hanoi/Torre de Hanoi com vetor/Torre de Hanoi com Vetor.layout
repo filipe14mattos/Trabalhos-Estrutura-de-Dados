@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="Yes" Tabpos="1" TopLine="14">
+			<Cursor Line="16" Column="10"/>
+		</File>
+		<File Name="PilhacomVetor.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="30" Column="23"/>
+		</File>
+		<File Name="PilhacomVetor.c" Top="No" Tabpos="3" TopLine="48">
+			<Cursor Line="110" Column="57"/>
+		</File>
+	</Files>
+</Layout>
